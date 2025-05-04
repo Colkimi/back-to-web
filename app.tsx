@@ -47,7 +47,7 @@ function App() {
       <div className="todo-form">
         <input
           type="text"
-          value={inputValue
+          value={inputValue}
           onChange={handleInputChange}
           placeholder="Add a new todo..."
         />
